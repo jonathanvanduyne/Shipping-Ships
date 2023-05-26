@@ -1,0 +1,22 @@
+h1 {
+    font-size: 200%;
+    color: green
+    
+}
+
+.details {
+    display: flex;
+    flex-wrap: wrap;
+    border: solid 10px blue;
+}
+.detail--column {
+
+    /* flex-basis: 24%; */
+    margin: 2rem 2rem 2rem 2rem;
+    border: 10px solid red;
+    padding: 1rem;
+}
+
+.assignments {
+    padding: 1rem 5rem;
+}
